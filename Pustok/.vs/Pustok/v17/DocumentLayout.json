@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\72. 29-04-2024\\pustok\\pustok\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\72. 29-04-2024\\pustok\\pustok\\areas\\manage\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\slider\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|c:\\users\\elchin\\desktop\\codelesson\\72. 29-04-2024\\pustok\\pustok\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F26DA92-581C-4FC6-9A51-99FF6598E6F9}|Pustok\\Pustok.csproj|solutionrelative:pustok\\areas\\manage\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:07:04.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Slider\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Views\\Slider\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Views\\Slider\\Edit.cshtml",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Views\\Slider\\Edit.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T17:07:00.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\elchin\\Desktop\\CodeLesson\\72. 29-04-2024\\Pustok\\Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Pustok\\Areas\\Manage\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA1wCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:55:04.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
